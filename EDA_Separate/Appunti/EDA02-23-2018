@@ -1,0 +1,7 @@
+Numero campioni e numero feature (1048575, 80)
+
+Label
+Benign              1048009
+Brute Force -Web        362
+Brute Force -XSS        151
+SQL Injection            53
