@@ -1,0 +1,5 @@
+# Ignora tutti i file .csv nella cartella 'archive'
+archive/*.csv
+
+# Ignora tutti i file .csv in qualsiasi altra directory
+*.csv
