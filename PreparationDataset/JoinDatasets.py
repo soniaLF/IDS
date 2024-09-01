@@ -32,16 +32,17 @@ import pandas as pd
 
 # Elenco dei file CSV per ogni giorno
 file_paths = [
-    '../archive/02-14-2018.csv',
-    '../archive/02-15-2018.csv',
-    '../archive/02-16-2018.csv',
-    '../archive/02-20-2018_cleaned.csv',
-    '../archive/02-21-2018.csv',
-    '../archive/02-22-2018.csv',
-    '../archive/02-23-2018.csv',
-    '../archive/02-28-2018.csv',
-    '../archive/03-01-2018.csv',
-    '../archive/03-02-2018.csv'
+    # '../archive/02-14-2018_cleaned.csv',
+    # '../archive/02-15-2018_cleaned.csv'
+    # '../archive/02-16-2018_cleaned.csv',
+    '../archive/dataset14-15-16-21-22-23-28-01-02.csv',
+    '../archive/02-20-2018_cleaned2.csv'
+    # '../archive/02-21-2018_cleaned.csv'
+    # '../archive/02-22-2018_cleaned.csv',
+    # '../archive/02-23-2018_cleaned.csv',
+    # '../archive/02-28-2018_cleaned.csv',
+    # '../archive/03-01-2018_cleaned.csv',
+    # '../archive/03-02-2018_cleaned.csv'
 ]
 
 # Lettura e concatenazione di tutti i file CSV in un unico DataFrame
@@ -49,5 +50,5 @@ dfs = [pd.read_csv(file_path, low_memory=False) for file_path in file_paths]
 df_combined = pd.concat(dfs, ignore_index=True)
 
 # Salvare il DataFrame combinato in un file CSV
-df_combined.to_csv('../archive/datasetUnito.csv', index=False)
+df_combined.to_csv('../archive/dataset14-15-16-21-22-23-28-01-02-20.csv', index=False)
 

@@ -1,4 +1,4 @@
-#IDS Data preprocessing con Dataset: CICIDS2017-GeneratedLabelflow
+#EDA 02-21-2018
 
 import pandas as pd
 import numpy as np

@@ -1,8 +1,5 @@
-#IDS Data preprocessing con Dataset: CICIDS2017-GeneratedLabelflow
+#EDA 02-16-2018
 
-#PROBLEMAAAAAAAA HA CAMBIATO Sì TUTTI I TIPI DELLE FEATURE MA LI HA CAMBIATI TUTTI IN OBJECT
-#VANNO INDIVIDUATE LE COLONNE PROBLEMATICHE
-#PER OGNUNA DI ESSE VA ANALIZZATO SE CI SONO VALORI NULL O ALTRE COSE SOSPETTE, TIPO SE è UN INT CONTROLLEREI CHE SI TROVA NEL RANGE PRESTABILITO...BOH CHIEDERE A CHATGPT
 
 import pandas as pd
 import numpy as np
@@ -23,7 +20,7 @@ pd.set_option('display.expand_frame_repr', False) #Per non tagliare il print
 
 #---------------------------PULIZIA E SISTEMAZIONE DATASET----------------------------------------------------------------------------
 # #
-# # ################################### Risoluzione problema datatype
+# # ################################### Risoluzione problema datatype########################
 # #
 # # #IMPORTO IL DATASET nel framework pandas#
 # path3='../archive/02-16-2018.csv'

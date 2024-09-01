@@ -1,5 +1,4 @@
-#IDS Data preprocessing con Dataset: CICIDS2017-GeneratedLabelflow
-
+#EDA 02-14-2018
 import pandas as pd
 import numpy as np
 import matplotlib
@@ -57,7 +56,7 @@ for column in ds1.columns:
 # Quanti campioni e quante feature
 print("\nNumero campioni e numero feature",ds1.shape,"\n")
 
-#visualizzazione dei primi 10 sample del dataset
+#visualizzazione dei primi 20 sample del dataset
 print("\nPrimi 20 campioni del dataset","\n", ds1.head(20))
 
 
