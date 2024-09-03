@@ -1,6 +1,6 @@
 1- Scaricare .zip completo da https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv
 
-2- Una volta estratto spostarlo nella directory principale del progetto
+2- Una volta estratto spostare la cartella "archive" nella directory principale del progetto
 
 La directory EDA_Searate contiene tutti i codici per l'elaborazione separata di ciascun file .csv e una cartella con alcuni appunti presi
 
