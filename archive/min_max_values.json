@@ -1,0 +1,182 @@
+{
+    "Dst Port": {
+        "min": 0.0,
+        "max": 65535.0
+    },
+    "Flow Duration": {
+        "min": 0.0,
+        "max": 120000000.0
+    },
+    "Tot Fwd Pkts": {
+        "min": 1.0,
+        "max": 309629.0
+    },
+    "Tot Bwd Pkts": {
+        "min": 0.0,
+        "max": 123118.0
+    },
+    "Fwd Pkt Len Max": {
+        "min": 0.0,
+        "max": 64448.0
+    },
+    "Fwd Pkt Len Min": {
+        "min": 0.0,
+        "max": 1460.0
+    },
+    "Fwd Pkt Len Mean": {
+        "min": 0.0,
+        "max": 16528.0
+    },
+    "Bwd Pkt Len Max": {
+        "min": 0.0,
+        "max": 65152.0
+    },
+    "Bwd Pkt Len Min": {
+        "min": 0.0,
+        "max": 1460.0
+    },
+    "Bwd Pkt Len Mean": {
+        "min": 0.0,
+        "max": 33888.0
+    },
+    "Flow Byts/s": {
+        "min": 0.0,
+        "max": 1806642857.1428602
+    },
+    "Flow Pkts/s": {
+        "min": 0.016666673333336,
+        "max": 6000000.0
+    },
+    "Flow IAT Mean": {
+        "min": 0.0,
+        "max": 120000000.0
+    },
+    "Flow IAT Std": {
+        "min": 0.0,
+        "max": 84808080.0
+    },
+    "Bwd IAT Tot": {
+        "min": 0.0,
+        "max": 120000000.0
+    },
+    "Bwd IAT Mean": {
+        "min": 0.0,
+        "max": 120000000.0
+    },
+    "Bwd IAT Std": {
+        "min": 0.0,
+        "max": 84837192.0
+    },
+    "Bwd IAT Max": {
+        "min": 0.0,
+        "max": 120000000.0
+    },
+    "Bwd IAT Min": {
+        "min": 0.0,
+        "max": 120000000.0
+    },
+    "Fwd PSH Flags": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Bwd PSH Flags": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Fwd URG Flags": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Bwd URG Flags": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Bwd Pkts/s": {
+        "min": 0.0,
+        "max": 2000000.0
+    },
+    "Pkt Len Var": {
+        "min": 0.0,
+        "max": 519000000.0
+    },
+    "FIN Flag Cnt": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "SYN Flag Cnt": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "RST Flag Cnt": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "PSH Flag Cnt": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "ACK Flag Cnt": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "URG Flag Cnt": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "CWE Flag Count": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Down/Up Ratio": {
+        "min": 0.0,
+        "max": 311.0
+    },
+    "Fwd Byts/b Avg": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Fwd Pkts/b Avg": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Fwd Blk Rate Avg": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Bwd Byts/b Avg": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Bwd Pkts/b Avg": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Bwd Blk Rate Avg": {
+        "min": 0.0,
+        "max": 0.0
+    },
+    "Init Fwd Win Byts": {
+        "min": 0.0,
+        "max": 65535.0
+    },
+    "Init Bwd Win Byts": {
+        "min": 0.0,
+        "max": 65535.0
+    },
+    "Fwd Seg Size Min": {
+        "min": 0.0,
+        "max": 56.0
+    },
+    "Active Mean": {
+        "min": 0.0,
+        "max": 114000000.0
+    },
+    "Active Std": {
+        "min": 0.0,
+        "max": 75232416.0
+    },
+    "Idle Min": {
+        "min": 0.0,
+        "max": 120000000.0
+    }
+}
