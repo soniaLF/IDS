@@ -1,5 +1,4 @@
-# Ignora il file di grandi dimensioni nella cartella archive
-archive/dataset14-15-16-21-22-23-28-01-02-20.csv
+# Ignora i file .csv
 *.csv
 
 
